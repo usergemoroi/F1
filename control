@@ -1,0 +1,9 @@
+Package: com.magician.pubgm
+Name:  magician ENGINE
+Depends: mobilesubstrate, preferenceloader
+Version: 3.3.0
+Architecture: iphoneos-arm
+Description: lu
+Maintainer: lu
+Author: lu
+Section: Tweaks
